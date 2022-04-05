@@ -5,7 +5,7 @@
 - I have basic knowledge of SQL and common DBMS (MySQL, MSSql, PostgreSqgl, Sybase Power Designer).
 - I have basic knowledge of HTTP comunication standard and RESTApi architecture style.
 - I have some expierience with working on Linux.
-- 🌱 I’m currently learning Type Script, AngularJS, SpringBoot, Spring Framework
+- 🌱 I’m currently learning: Type Script, Angular, SpringBoot, Spring Framework
 - 💞️ I’m looking to collaborate on back-end projects  as JavaDeveloper.
 - 📫 How to reach me e-mail: luk8426@wp.pl or lukasz.flis@op.pl, mobile: +48 503 771 002
 
